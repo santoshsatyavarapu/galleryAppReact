@@ -1,0 +1,26 @@
+/* Write your code here. */
+.bg-container {
+  background-color: white;
+  height: 100vh;
+  padding: 50px;
+}
+
+.main-image {
+  width: 70vw;
+  max-width: 700px;
+}
+ul {
+  list-style: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h1 {
+  font-size: 25px;
+  color: #1e293b;
+}
+
+p {
+  color: #64748b;
+}

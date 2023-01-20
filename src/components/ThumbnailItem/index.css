@@ -1,0 +1,12 @@
+/* Write your code here. */
+.opacity {
+  opacity: 0.4;
+}
+li {
+  margin-right: 10px;
+}
+
+button {
+  border-width: 0px;
+  background-color: transparent;
+}
